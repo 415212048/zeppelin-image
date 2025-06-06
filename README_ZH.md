@@ -14,7 +14,7 @@
 
 ## 项目介绍
 
-[Zeppelin](https://github.com/jaegertracing/jaeger) 是一款开源的交互式数据分析工具，基于 Web 界面，支持多种编程语言（如 Scala、Python、SQL 等），常用于大数据处理和可视化。
+[Zeppelin](https://github.com/apache/zeppelin) 是一款开源的交互式数据分析工具，基于 Web 界面，支持多种编程语言（如 Scala、Python、SQL 等），常用于大数据处理和可视化。
 
 **核心功能：**
 

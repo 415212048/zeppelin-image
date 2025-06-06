@@ -37,3 +37,5 @@ cd /opt/zeppelin-0.12.1-bin-all
 ‌访问 Web 界面‌
 
 浏览器输入 http://服务器IP:8080，若显示 Zeppelin 首页即部署成功‌。
+
+https://marketplace.huaweicloud.com/hidden/contents/253a2dc0-df54-4f08-93bb-51eaeff7097e#productid=OFFI1121280108350484480

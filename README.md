@@ -13,7 +13,7 @@
 
 ## Project Introduction
 
-[Zeppelin](https://github.com/jaegertracing/jaeger) is an open-source interactive data analysis tool. It is based on a web interface and supports multiple programming languages (such as Scala, Python, SQL, etc.). It is commonly used for big data processing and visualization.
+[Zeppelin](https://github.com/apache/zeppelin) is an open-source interactive data analysis tool. It is based on a web interface and supports multiple programming languages (such as Scala, Python, SQL, etc.). It is commonly used for big data processing and visualization.
 
 **Core Features:**
 
